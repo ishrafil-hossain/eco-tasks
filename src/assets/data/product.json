@@ -1,0 +1,62 @@
+{
+    "product": {
+      "title": "Classy Modern Smart Watch",
+      "price": {
+        "original": 99.00,
+        "discounted": 79.00
+      },
+      "reviews": {
+        "rating": 4.5,
+        "totalReviews": 2
+      },
+      "description": "I must explain to you how all this mistaken idea of denouncing pleasure praising pain was born and I will give you a complete account of the system, and expound the actual teaching.",
+      "details": {
+        "type": "Watch",
+        "modelNumber": "Forerunner 290XT"
+      },
+      "bandColors": [
+        {
+          "color": "Purple",
+          "hexCode": "#7c4dff",
+          "image": "../photos/purple-watch.png"
+        },
+        {
+          "color": "Blue",
+          "hexCode": "#4dd0e1",
+          "image": "../photos/blue-watch.png"
+        },
+        {
+          "color": "black",
+          "hexCode": "#263238",
+          "image": "../photos/black-watch.png"
+        }, 
+        {
+          "color": "Cyan",
+          "hexCode": "#37474f",
+          "image": "../photos/cyan-watch.png"
+        }
+      ],
+      "wristSizes": [
+        {
+          "size": "S",
+          "price": 69
+        },
+        {
+          "size": "M",
+          "price": 79
+        },
+        {
+          "size": "L",
+          "price": 89
+        },
+        {
+          "size": "XL",
+          "price": 99
+        }
+      ],
+      "cart": {
+        "quantity": 0
+      }
+    }
+  }
+  
