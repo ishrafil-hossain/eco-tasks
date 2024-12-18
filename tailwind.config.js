@@ -1,11 +1,14 @@
-/** @type {import('tailwindcss').Config} */
+// tailwind.config.js
 module.exports = {
   content: [
-    "./src/**/*.{html,js}",
-    // You can add more paths here based on your file structure
+    './src/**/*.{html,js}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Roboto', 'Arial', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
-}
+};
